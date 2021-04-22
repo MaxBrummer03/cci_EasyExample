@@ -3,43 +3,54 @@
 
 #define WorkingSet_0_Offset                                     1
 #define DataMask_Home_Offset                                   21
-#define Container_Gesamtzaehler_Offset                         77
-#define Container_Tageszaehler_Offset                         105
-#define SoftKeyMask_Home_Offset                               133
-#define SoftKey_PlusPlus_Offset                               151
-#define SoftKey_Reset_Gesamtzaehler_Offset                    164
-#define SoftKey_Reset_Tageszaehler_Offset                     177
-#define Button_PlusPlus_Offset                                190
-#define Button_Reset_Gesamtzaehler_Offset                     209
-#define Button_Reset_Tageszaehler_Offset                      228
-#define InputNumber_Gesamtzaehler_Offset                      247
-#define OutputString_PlusPlus_Offset                          285
-#define OutputString_Fasszaehler_Offset                       306
-#define OutputString_Reset_Gesamtzaehler_Offset               335
-#define OutputString_Gesamtzaehler_Offset                     365
-#define OutputString_Tageszaehler_Offset                      394
-#define OutputString_Reset_Tageszaehler_Offset                422
-#define OutputNumber_Tageszaehler_Offset                      451
-#define OutputNumber_Gesamtzaehler_Offset                     480
-#define Meter_Gesamtzaehler_Offset                            509
-#define Meter_Tageszaehler_Offset                             530
-#define LinearBargraph_Gesamtzaehler_Offset                   551
-#define LinearBargraph_Tageszaehler_Offset                    575
-#define NumberVariable_Tageszaehler_Offset                    599
-#define NumberVariable_Gesamtzaehler_Offset                   606
-#define FontAttributes_Default_Offset                         613
-#define FontAttributes_Button_Offset                          621
-#define ObjectPointer_Null2_Offset                            629
-#define ObjectPointer_Null3_Offset                            634
-#define ObjectPointer_Null1_Offset                            639
-#define AuxFunction2_PlusPlus_Offset                          644
+#define Container_Gesamtzaehler_Offset                         95
+#define Container_Tageszaehler_Offset                         123
+#define SoftKeyMask_Home_Offset                               151
+#define SoftKey_PlusPlus_Offset                               169
+#define SoftKey_Reset_Gesamtzaehler_Offset                    182
+#define SoftKey_Reset_Tageszaehler_Offset                     195
+#define SoftKey_Minus_Offset                                  208
+#define Button_PlusPlus_Offset                                221
+#define Button_Minus_Offset                                   240
+#define Button_Reset_Gesamtzaehler_Offset                     259
+#define Button_Reset_Tageszaehler_Offset                      278
+#define Button_6004_Offset                                    297
+#define InputNumber_Tagesziel_Offset                          316
+#define InputNumber_Gesamtziel_Offset                         354
+#define OutputString_PlusPlus_Offset                          392
+#define OutputString_Fasszaehler_Offset                       413
+#define OutputString_Reset_Gesamtzaehler_Offset               442
+#define OutputString_Gesamtzaehler_Offset                     472
+#define OutputString_Tageszaehler_Offset                      501
+#define OutputString_Reset_Tageszaehler_Offset                529
+#define OutputString_11006_Offset                             558
+#define OutputString_11007_Offset                             579
+#define OutputString_11008_Offset                             602
+#define OutputString_11009_Offset                             624
+#define OutputNumber_Tageszaehler_Offset                      651
+#define OutputNumber_Gesamtzaehler_Offset                     680
+#define Meter_Gesamtzaehler_Offset                            709
+#define Meter_Tageszaehler_Offset                             730
+#define LinearBargraph_Gesamtzaehler_Offset                   751
+#define LinearBargraph_Tageszaehler_Offset                    775
+#define NumberVariable_Tageszaehler_Offset                    799
+#define NumberVariable_Gesamtzaehler_Offset                   806
+#define NumberVariable_Tagesziel_Offset                       813
+#define NumberVariable_Gesamtziel_Offset                      820
+#define FontAttributes_23000_Offset                           827
+#define FontAttributes_Default_Offset                         835
+#define FontAttributes_Button_Offset                          843
+#define ObjectPointer_Null2_Offset                            851
+#define ObjectPointer_Null3_Offset                            856
+#define AuxFunction2_PlusPlus_Offset                          861
+#define AuxFunction2_29001_Offset                             873
 
 #define ISO_OP_MEMORY_CLASS
 
-#define ISO_OP_MyProject1_Size    656
+#define ISO_OP_MyProject1_Size    879
 extern const unsigned char ISO_OP_MEMORY_CLASS isoOP_MyProject1[];
 
-#define ISO_OP_MyProject1_ObjectNumber     32
+#define ISO_OP_MyProject1_ObjectNumber     43
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset[];
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset_Id[];
 #define ISO_OP_MyProject1_Scale_Offset      1
